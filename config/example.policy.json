@@ -1,0 +1,7 @@
+{
+  "cluster": "solana-mainnet",
+  "recipient": "11111111111111111111111111111111",
+  "mint": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+  "decimals": 6,
+  "requireFinalized": true
+}
